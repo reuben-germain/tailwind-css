@@ -7,3 +7,8 @@ Then installed 2 more commands -
     - npm init -y
 
 Then added "*" into content[] in the tailwind.config.js file, so that tailwind will be in all the files.
+
+Install vite - npm i vite
+Then in the package.json file change the script to - "start": "vite"
+
+Then in the terminal type - npm run start - to start local host.

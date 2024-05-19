@@ -12,3 +12,4 @@ Install vite - npm i vite
 Then in the package.json file change the script to - "start": "vite"
 
 Then in the terminal type - npm run start - to start local host.
+To stop running host press ctrl + c.
